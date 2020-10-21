@@ -28,6 +28,11 @@ Here you will find the outline, daily schedule, and powerpoint presentations for
 | 16h00-16h15   | Cleaning| G42 |
 |  |  ||
 | Fri 23/10     |  | |
+|  |  | |
+| 9h00-11h30| [Perform a bacterial conjugaison](https://github.com/Leila011/Practicum_conjugation_MOGEN/blob/main/bacterialConjugaison) | G41|
+|11h30-14h40 |Lunch break & plate incubation | |
+|14h30-16h00|[Plating of the conjugation mixture on a selective medium to isolate the transconjugant](https://github.com/Leila011/Practicum_conjugation_MOGEN/blob/main/transconjugantIsolation)  | G41|
+|  |  | |
 | ------------- | ------------- |------------- |
 
 
